@@ -8,5 +8,9 @@ Public pages for the Pasujki app (App Store / Google Play listing), one page per
 | Privacy Policy | `/privacy/` | `/<lang>/privacy/` |
 | Terms of Use | `/terms/` | `/<lang>/terms/` |
 
-Generated from the app repo: `npx tsx tools/site/gen-site.ts <this-folder>`. Do not edit the HTML by hand.
+Generated from the app repo ([tobob/pasujki](https://github.com/tobob/pasujki)): `npx tsx tools/site/gen-site.ts <this-folder>`. Do not edit the HTML by hand.
 Questions: open an issue.
+
+## License
+
+[MIT](LICENSE).
